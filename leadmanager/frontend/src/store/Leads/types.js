@@ -1,0 +1,9 @@
+export const NEW_LEAD = "NEW_LEAD";
+export const GET_LEADS = "GET_LEADS";
+export const DELETE_LEAD = "DELETE_LEAD";
+export const UPDATE_LEAD = "UPDATE_LEAD";
+export const SET_CURRENT = "SET_CURRENT";
+export const NEW_LEAD_LOADING = "NEW_LEAD_LOADING";
+export const GET_LEAD_LOADING = "GET_LEAD_LOADING";
+export const PUT_LEAD_LOADING = "PUT_LEAD_LOADING";
+export const DEL_LEAD_LOADING = "DEL_LEAD_LOADING";
